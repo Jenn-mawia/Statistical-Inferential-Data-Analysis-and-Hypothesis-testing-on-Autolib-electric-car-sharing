@@ -1,9 +1,21 @@
 # Statistical-Inferential-Data-Analysis-and-Hypothesis-testing-on-Autolib-electric-car-sharing
 
+# Name of contributors
+Jenipher Mawia
 
 
+# Description
+This is a brief analysis which I did on the Autolib' Electric car-sharing company. The company offers car-sharing(renting) services to its customers in various cities. The main aim of this project was to perform data preprocessing, analysis and hypothesis testing and come up with statistical inferences about Autolib's car usage by its consumers.
 
+I investigated a claim about the blue cars from Autolib using statistical hypothesis tests such as the z-test and t-test. The selected periods of interest were weekdays or weekends. I tested for two 
 
-Just like before, we have been tasked to understand electric car usage by solving for another research question. We will work as a Data Scientist for the Autolib electric car-sharing service company to investigate a claim about the blue cars from the provided Autolib dataset.
+Be sure to check it out.😊
+  
+ 
+ # Bug / Feature Request
+ If you find a bug (or undesired results) do not hesitate to reach out to me. If you would like to contribute or make any changes, feel free to open an issue to discuss the changes & contributions you would like to make on the code.
+ 
+ # License
+ MIT License
 
-In an effort to do this, we need to identify some areas and periods of interest via sampling stating the reason to the choice of method, then perform hypothesis testing with regards to the claim that we will have made. An example of claim to test would be "Is the number of Bluecars taken in area X different than in area Y? Is it greater in area X than in area Z? Etc”. The selected periods of interest be either weekdays or weekends but not a mix of both. You can also consider postal codes 75015 vs 75017 to some of the areas of interest. 
+Copyright (c) [2020] [Jenipher Mawia]
